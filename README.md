@@ -4,7 +4,7 @@ This is a repository containing all the maps that will be used in Overcast Commu
 
 These maps will be getting updates until the end of the tournament, and this repository will later remain as an archive.
 
-The authors for all maps had either released their maps on MCResourcePile, or have given explicit permission to make them publicly available in this repository.
+The authors for all maps have either released their maps on MCResourcePile, or have given explicit permission to make them publicly available in this repository.
 
 Where applicable, maps with specific individual licenses will have a `LICENSE.txt` file within the map folder.
 
